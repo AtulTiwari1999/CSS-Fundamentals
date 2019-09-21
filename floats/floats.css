@@ -1,0 +1,54 @@
+ *{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+
+}  
+
+.container{
+    overflow:hidden;
+    background-color: #eaedf0;
+}
+.page{
+    width:900px;
+    margin: 0 auto;
+    overflow:hidden;
+    
+    background-color:#eaedf0;
+}
+.menu{
+    height:100px;
+    background-color:#B2d6ff;
+}
+
+.sidebar{
+    
+    float:left;
+    height:300px;
+    width:200px;
+    background-color:#f09a9d;
+
+}
+
+.content{
+    
+    float: left;
+    width:650px;
+height:500px;
+background-color:#f5cf8e;
+
+}
+
+.footer{clear:left;
+    overflow:hidden;
+    background-color:#d6e9fe; 
+}
+
+.column{
+    float:left;
+    width:31%;
+    margin:20px 1.15%;
+    height:160px;
+    background-color:#b2d6ff;
+}
+
